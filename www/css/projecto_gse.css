@@ -1,0 +1,41 @@
+/* Mis definiciones de estilo*/
+.profesion{
+	font-size: 12px;
+	margin-top: 2px;
+	color: grey;
+}
+
+.formularios{
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.nombrePoblacion{
+	font-size: 12px;
+	margin-top: 2px;
+	color: grey;
+}
+
+.numeroEdad{
+	font-size: 12px;
+	margin-top: 2px;
+	color: grey;
+}
+
+.uso{
+	font-size: 12px;
+	margin-top: 2px;
+	color: grey;
+}
+
+.correo{
+	font-size: 12px;
+	margin-top: 2px;
+	color: grey;
+}
+
+.telefono{
+	font-size: 12px;
+	margin-top: 2px;
+	color: grey;
+}
